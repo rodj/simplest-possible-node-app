@@ -1,3 +1,5 @@
+// You cannot get a whole lot more simple than this, but a little...
+
 var express = require('express');
 
 var app = express();
