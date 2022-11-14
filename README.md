@@ -1,2 +1,2 @@
 # simplest-possible-node-app
-Hello!
+Hello! Welcome to the app.
